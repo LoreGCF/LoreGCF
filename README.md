@@ -1,5 +1,6 @@
-### Hi there  👋
+### 
  <div align="center">
+        <img src=https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif widht="200">
         <h1 align="center">Hola Soy Lorena</h1>
         <h4>"Un paso a la Vez"</h4>
     </div>
