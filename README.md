@@ -13,7 +13,7 @@
           <li>Actualmente haciendo Curso de Argentina Programa 4.0</li>
           <li>Proyectos Personales para subir a Github</li>
           <li>Curso de Inglés</li>
-          <li>Todo programador tiene su parte autodidacta y es lo que hago todo el tiempo</li>
+          <li>Todo programador tiene su parte autodidacta</li>
           <li>Nunca se deja de aprender y enseñar</li>
           <li>No son problemas, son desafíos y Me gustan</li>
         </ul>
