@@ -11,7 +11,7 @@
         <ul>
           <li>Preguntame sobre Html, Css y Bootstrap</li>
           <li>Actualmente haciendo Curso de Argentina Programa 4.0</li>
-          <li>Haciendo Proyectos Personales para subir a Github</li>
+          <li>Proyectos Personales para subir a Github</li>
           <li>Curso de Inglés</li>
           <li>Todo programador tiene su parte autodidacta y es lo que hago todo el tiempo</li>
           <li>Nunca se deja de aprender y enseñar</li>
