@@ -15,7 +15,8 @@
           <li>Curso de Inglés</li>
           <li>Todo programador tiene su parte autodidacta</li>
           <li>Nunca se deja de aprender y enseñar</li>
-          <li>No son problemas, son desafíos y Me gustan</li>
+          <li>Los Programadores damos soluciones</li>
+          <li>Una vez que te comprometes, encuentras la manera de lograrlo...</li>
         </ul>
     </div>
 </body>
